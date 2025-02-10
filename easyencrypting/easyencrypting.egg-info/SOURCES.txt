@@ -1,0 +1,8 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+easyencrypting.egg-info/PKG-INFO
+easyencrypting.egg-info/SOURCES.txt
+easyencrypting.egg-info/dependency_links.txt
+easyencrypting.egg-info/top_level.txt
