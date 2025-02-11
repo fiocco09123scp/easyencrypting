@@ -11,7 +11,7 @@ pip install easyencrypting
 ```
 To install easyencrypting on MacOS just use this command on your terminal
 ```bash
-python -m pip install
+python -m pip install easyencrypting
 ```
 
 # Documentation
